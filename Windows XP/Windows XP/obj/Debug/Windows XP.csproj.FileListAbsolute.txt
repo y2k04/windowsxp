@@ -1,0 +1,328 @@
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\bootfade.gif
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\login_shutdown.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\welcome.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\startbutton\start button hover.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\startbutton\start button pressed.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\startbutton\start button.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\startmenu\allprograms.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\startmenu\computer.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\startmenu\controlpanel.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\startmenu\documents.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\startmenu\help.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\startmenu\music.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\startmenu\pictures.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\startmenu\printers.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\startmenu\run.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\startmenu\search.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\startmenu\shutdown.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\startmenu\shutdown_clicked.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\startmenu\shutdown_hovered.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\startmenu\startmenu.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\taskbar.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\verticallogin.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\African desert at sunset.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Ascent.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Atacama_Licancabur.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Auyantepui_Canaima.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Azul.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\a_wall_1920.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\background_1920_1.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\background_1920_2.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\background_1920_5.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\background_1920_6.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Bengal_Tiger.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Birth of a Star.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Bliss (3840x2160).jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Bodrum_CastleStPeter.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\b_wall_1920.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Calzada_de_los_Muertos.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Cerros_Torre_y_Fitz_Roy (Alt).jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Cerros_Torre_y_Fitz_Roy.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Close-Up of a Metal Globe.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Colonia.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Computer-Generated Starburst.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Cook Island.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\CP_scn01.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\CP_scn11.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\CP_scn15.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Don't follow me.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\d_wall_1920.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Ephesus_Hadrian.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Eye and Streaks of Light.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\fa_wallp.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Floriano Falls.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Flower of California Poppy.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Foggy Hills in Sequoia National Park.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Follow.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Freestyle.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Friend.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Gold Petals.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Hang Gliding Over Yosemite Valley.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Jakarta, Indonesia.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Los Angeles at Twilight.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Machu_Picchu.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Ouro Preto Minas Gerais.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Overlooking Rio.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Palm Trees by Wall.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Pamukkale.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Paradise.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Peter_the_Great (Alt).jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Peter_the_Great.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\PhotoDisc.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Piramide_del_Sol.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Plaza Independencia, Montevideo, Uruguay.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Plus! Aquarium.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Plus! Aquarium2.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Plus! Space.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Puerta_del_Reloj_Cartagena.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Radiance.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Rano_Raraku.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Rara_Avis_Preserve.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Red moon desert.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Rio_de_Paraguay.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Royal Palace at Dusk.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\San Francisco-Oakland Bay Bridge at Twilight.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Santiago.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Solar Eclipse.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Star Field with Colorful Streaks.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Stars and Streaks #1.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Stars and Streaks #2.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Stonehenge.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Sugarloaf Mountain.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Sunset.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Taj_Mahal.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Templo_del_Inca_Isla_del_Sol.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Tulips.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Tulum.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Vortec space.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Vịnh Hạ Long.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Wind (with XP Saturation and Contrast).jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Winter.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\winter_village.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\WO_SCN01.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\WO_SCN04.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\WO_SCN05.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\WO_SCN07.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\WO_SCN08.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\WO_SCN09.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\WO_SCN11.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\WO_SCN12.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\WO_SCN14.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\backgrounds\Zuleta.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\black.bmp
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\close.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\folder.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\accessibility.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\addmusic.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\administrativetools.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\bat.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\camera.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\cd.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\cdaudio.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\cddrive.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\cdread.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\cdreadwrite.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\cdrom.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\compactstorage.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\controlpanel.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\defragment.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\delete.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\desktop.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\dialup.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\diskutility.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\downloadfolder.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\duplicate.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\dvd.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\dvdram.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\dvdread.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\dvdreadwrite.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\dvdrom.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\eject.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\ejectcdrive.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\email.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\exe.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\favourites.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\fax.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\faxconnected.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\floppy.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\floppydisk.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\folder.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\folderoptions.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\font.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\font2.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\fontsfolder.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\hdd.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\help.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\iexplore.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\ini.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\installer.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\internet3.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\internetcalendar.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\internetfolder.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\internetmusic.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\internetserver.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\internetshortcut.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\internetshortcut2.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\lock.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\logoff.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\mouseoptions.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\move.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\msn.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\multiplefiles.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\music.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\music2.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\musicdisk.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\mycomputer.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\mydocuments.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\network.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\networkdocuments.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\networkdriveconnected.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\networkdrivedisconnected.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\networkfax.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\networkfaxconnecred.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\networkprinter.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\networkprinterconnected.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\networkshare.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\newnetwork.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\newnetworkdrive.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\next.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\no.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\oldcontrolpanel.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\onscreenkeyboard.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\passwords.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\personalisation.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\personalisation2.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\phone.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\pictures.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\pictures2.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\poweroff.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\printer.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\printerconnected.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\printerfolder.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\programfolder.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\ram.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\recentitems.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\recyclebinempty.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\recyclebinfull.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\removabledisk.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\rename.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\renamefolder.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\replace.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\rtf.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\run.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\scanner.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\sdcard.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\sdcard2.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\sdcard3.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\search.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\searchfile.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\sharedfolder.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\shortcut.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\shortcutlink.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\showdesktop.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\shutdown.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\sleep.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\speech.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\startmenu.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\sys.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\telephony.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\text.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\tree.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\truetypefont.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\unknowndisc.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\unknowndisk.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\unknownfile.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\usb2.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\usb3.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\usbdrive.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\useraccount2.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\useraccounts.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\video.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\videorecorder.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\videos.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\ico\windowsupdate.ico
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\load.bmp
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\load.gif
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\logo.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\maximise.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\minimise.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\window.png
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\icons\login.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\chimes.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\chord.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\ding.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\ir_begin.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\ir_end.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\ir_inter.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\notify.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\tada.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Balloon.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Battery Critical.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Battery Low.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Critical Stop.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Default.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Ding.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Error.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Exclamation.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Feed Discovered.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Hardware Fail.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Hardware Insert.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Hardware Remove.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Information Bar.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Logoff Sound.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Logon Sound.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Menu Command.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Minimize.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Navigation Start.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Notify.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Pop-up Blocked.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Print complete.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Proximity Connection.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Proximity Notification.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Recycle.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Restore.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Ringin.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Ringout.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Shutdown.mp3
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Start.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows Startup.mp3
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\Media\Windows User Account Control.wav
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\usraccountpic\airplane.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\usraccountpic\astronaut.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\usraccountpic\ball.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\usraccountpic\beach.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\usraccountpic\butterfly.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\usraccountpic\car.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\usraccountpic\cat.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\usraccountpic\chess.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\usraccountpic\dirt bike.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\usraccountpic\dog.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\usraccountpic\drip.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\usraccountpic\duck.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\usraccountpic\fish.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\usraccountpic\frog.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\usraccountpic\guest.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\usraccountpic\guitar.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\usraccountpic\horses.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\usraccountpic\kick.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\usraccountpic\launch.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\usraccountpic\palm tree.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\usraccountpic\pink flower.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\usraccountpic\red flower.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\usraccountpic\skater.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Resources\usraccountpic\snowflake.jpg
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Windows XP.exe.config
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Windows XP.exe
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Windows XP.pdb
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\Interop.WMPLib.dll
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\obj\Debug\Windows XP.csprojAssemblyReference.cache
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\obj\Debug\Interop.WMPLib.dll
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\obj\Debug\Windows XP.csproj.ResolveComReference.cache
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\obj\Debug\Windows_XP.Form1.resources
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\obj\Debug\Windows_XP.Properties.Resources.resources
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\obj\Debug\Windows XP.csproj.GenerateResource.cache
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\obj\Debug\Windows XP.csproj.CoreCompileInputs.cache
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\obj\Debug\Windows XP.exe
+C:\Users\Joschua\Documents\GitHub\VCC\windowsxp\Windows XP\Windows XP\obj\Debug\Windows XP.pdb
